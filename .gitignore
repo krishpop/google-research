@@ -20,3 +20,9 @@ dist/
 *.DS_Store
 
 *.mp4
+
+# safemrl
+safemrl/tfagents/
+safemrl/videos/
+.ipynb_checkpoints/
+.idea/
