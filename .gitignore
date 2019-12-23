@@ -26,3 +26,5 @@ safemrl/tfagents/
 safemrl/videos/
 .ipynb_checkpoints/
 .idea/
+safemrl/wandb/
+safemrl/data/
